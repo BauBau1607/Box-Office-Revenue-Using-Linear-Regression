@@ -1,4 +1,4 @@
-# Box-Office-Revenue-Using-Linear-Regression
+# Box-Office-Revenue (BOR)
 
 ET-E9 Machine Learning Project, [Hanoi University of Science and Technology](https://hust.edu.vn/), 2023
 
