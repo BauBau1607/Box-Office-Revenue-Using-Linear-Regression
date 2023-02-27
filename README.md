@@ -9,7 +9,6 @@ ET-E9 Machine Learning Project, [Hanoi University of Science and Technology](htt
 │   ├── extracted
 │   ├── processed
 │   └── **/*.csv
-├── demo Demo website source
 ├── notebook Jupyter notebooks
 ├── src Data crawler and other source code only for reference purpose
 ├── README.md Project overview
